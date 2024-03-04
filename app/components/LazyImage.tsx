@@ -1,4 +1,4 @@
-import { useRef, useEffect, useState, use } from "react";
+import { useRef, useEffect, useState } from "react";
 import type { ImgHTMLAttributes } from "react";
 
 // import type { FunctionComponent, FC } from "react"
